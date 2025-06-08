@@ -1,2 +1,1 @@
-<?php
-?>
+This is a farzi file
